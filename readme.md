@@ -113,4 +113,3 @@ Using Docker allows you to run the application in a self-contained environment w
         1.  Find the container ID using `docker ps`.
         2.  Stop the container using `docker stop <container_id>`.
 
-## File Structure
