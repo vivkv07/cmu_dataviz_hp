@@ -27,10 +27,9 @@ The dashboard provides insights into:
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory-name>
+    git clone https://github.com/vivkv07/cmu_dataviz_hp.git
+    cd cmu_dataviz_hp
     ```
-    *(Replace `<your-repository-url>` and `<repository-directory-name>`)*
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
     * On macOS/Linux:
@@ -71,8 +70,8 @@ Using Docker allows you to run the application in a self-contained environment w
 
 1.  **Clone the Repository (if not already done):**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory-name>
+    git clone https://github.com/vivkv07/cmu_dataviz_hp.git
+    cd cmu_dataviz_hp
     ```
 
 2.  **Ensure Docker is Running:** Start Docker Desktop or ensure the Docker service is active.
